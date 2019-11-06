@@ -3,7 +3,8 @@
     "name": "adsense",
     "version": "1.0.0",
     "package-type": "library",
-    "description": "AdSense lib",
+    "repository": "https://github.com/arikaim/adsense-library.git",
+    "description": "Google AdSense library",
     "files": [
         "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
     ],
