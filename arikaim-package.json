@@ -1,0 +1,14 @@
+{
+    "title": "AdSense",
+    "name": "adsense",
+    "version": "1.0.0",
+    "package-type": "library",
+    "description": "AdSense lib",
+    "files": [
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    ],
+    "async": true,
+    "params": {
+        "data-ad-client": "{{ pub-id }}"
+    }
+}
