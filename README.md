@@ -1,12 +1,11 @@
-<p align="center">
-    <img src="https://img.shields.io/github/release/arikaim/adsense-library.svg" alt="version: 1.0.0">
-    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="license: GPL3">
-</p>
+## Arikaim CMS UI library for Google AdSense
+![version: 1.0.0](https://img.shields.io/github/release/arikaim/adsense-library.svg)
+![license: GPL3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-## Arikaim CMS UI library
-Arikaim CMS UI library for Google AdSense
-
+### Requirements 
+  * [Arikaim CMS](https://github.com/arikaim/arikaim)
+  
 ### Install
-```
+```bash
 composer require arikaim/adsense-library
 ```
