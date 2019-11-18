@@ -1,7 +1,7 @@
 {
     "title": "AdSense",
     "name": "adsense",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "package-type": "library",
     "repository": "https://github.com/arikaim/adsense-library.git",
     "description": "Google AdSense library",
