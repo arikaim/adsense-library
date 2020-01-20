@@ -10,6 +10,6 @@
     ],
     "async": true,
     "params": {
-        "data-ad-client": "{{ pub-id }}"
+        "data-ad-client": "{{ data-ad-client }}"
     }
 }
