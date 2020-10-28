@@ -1,7 +1,7 @@
 {
     "title": "AdSense",
     "name": "adsense",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "package-type": "library",
     "repository": "https://github.com/arikaim/adsense-library.git",
     "description": "Google AdSense library",
@@ -11,5 +11,6 @@
     "async": true,
     "params": {
         "data-ad-client": "{{ data-ad-client }}"
-    }
+    },
+    "disabled": true
 }
